@@ -44,4 +44,4 @@ Thanks to the following contributors:
 - [Jason Bruno](https://github.com/jcwebhole)
 
 ## License
-MIT © [Roy](https://github.com/IwataRyosuke/CurrencyConverter/)
+MIT © Jesmilyn](https://https://github.com/JesmilynO/CurrencyConverter/)
